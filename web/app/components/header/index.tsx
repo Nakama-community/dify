@@ -11,6 +11,7 @@ import EnvNav from './env-nav'
 import PluginsNav from './plugins-nav'
 import ExploreNav from './explore-nav'
 import ToolsNav from './tools-nav'
+import ThemeToggle from '@/app/components/base/theme-toggle'
 import { WorkspaceProvider } from '@/context/workspace-context'
 import { useAppContext } from '@/context/app-context'
 import LogoSite from '@/app/components/base/logo/logo-site'
@@ -96,6 +97,9 @@ const Header = () => {
         <EnvNav />
         <div className='mr-2'>
           <PluginsNav />
+        </div>
+        <div className='mr-2'>
+          <ThemeToggle />
         </div>
         <AccountDropdown />
       </div>

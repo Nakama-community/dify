@@ -260,6 +260,10 @@ const translation = {
     displayLanguage: 'زبان نمایش',
     timezone: 'منطقه زمانی',
   },
+  theme: {
+    light: 'حالت روشن',
+    dark: 'حالت تاریک',
+  },
   provider: {
     apiKey: 'کلید API',
     enterYourKey: 'کلید API خود را اینجا وارد کنید',

@@ -260,6 +260,10 @@ const translation = {
     displayLanguage: 'Görüntüleme Dili',
     timezone: 'Zaman Dilimi',
   },
+  theme: {
+    light: 'Açık Mod',
+    dark: 'Koyu Mod',
+  },
   provider: {
     apiKey: 'API Anahtarı',
     enterYourKey: 'API anahtarınızı buraya girin',

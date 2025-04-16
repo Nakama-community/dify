@@ -260,6 +260,10 @@ const translation = {
     displayLanguage: 'Jezik prikaza',
     timezone: 'Časovni pas',
   },
+  theme: {
+    light: 'Svetli način',
+    dark: 'Temni način',
+  },
   provider: {
     apiKey: 'API ključ',
     enterYourKey: 'Vnesite svoj API ključ tukaj',

@@ -275,6 +275,10 @@ const translation = {
     displayLanguage: '界面语言',
     timezone: '时区',
   },
+  theme: {
+    light: '浅色模式',
+    dark: '深色模式',
+  },
   provider: {
     apiKey: 'API 密钥',
     enterYourKey: '输入你的 API 密钥',

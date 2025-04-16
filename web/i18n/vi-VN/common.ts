@@ -256,6 +256,10 @@ const translation = {
     displayLanguage: 'Ngôn ngữ hiển thị',
     timezone: 'Múi giờ',
   },
+  theme: {
+    light: 'Chế độ sáng',
+    dark: 'Chế độ tối',
+  },
   provider: {
     apiKey: 'Khóa API',
     enterYourKey: 'Nhập khóa API của bạn ở đây',

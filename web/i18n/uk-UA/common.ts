@@ -256,6 +256,10 @@ const translation = {
     displayLanguage: 'Мова інтерфейсу',
     timezone: 'Часовий пояс',
   },
+  theme: {
+    light: 'Світлий режим',
+    dark: 'Темний режим',
+  },
   provider: {
     apiKey: 'Ключ API',
     enterYourKey: 'Введіть свій ключ API тут',

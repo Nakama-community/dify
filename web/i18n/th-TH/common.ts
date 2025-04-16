@@ -255,6 +255,10 @@ const translation = {
     displayLanguage: 'ภาษาที่แสดง',
     timezone: 'เขตเวลา',
   },
+  theme: {
+    light: 'โหมดสว่าง',
+    dark: 'โหมดมืด',
+  },
   provider: {
     apiKey: 'คีย์ API',
     enterYourKey: 'ป้อนคีย์ API ของคุณที่นี่',

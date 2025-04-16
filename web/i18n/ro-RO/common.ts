@@ -256,6 +256,10 @@ const translation = {
     displayLanguage: 'Limbă de afișare',
     timezone: 'Fus orar',
   },
+  theme: {
+    light: 'Mod luminos',
+    dark: 'Mod întunecat',
+  },
   provider: {
     apiKey: 'Cheie API',
     enterYourKey: 'Introduceți cheia API aici',

@@ -275,6 +275,10 @@ const translation = {
     displayLanguage: '表示言語',
     timezone: 'タイムゾーン',
   },
+  theme: {
+    light: 'ライトモード',
+    dark: 'ダークモード',
+  },
   provider: {
     apiKey: 'APIキー',
     enterYourKey: 'ここにAPIキーを入力してください',

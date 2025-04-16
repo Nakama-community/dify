@@ -256,6 +256,10 @@ const translation = {
     displayLanguage: '介面語言',
     timezone: '時區',
   },
+  theme: {
+    light: '淺色模式',
+    dark: '深色模式',
+  },
   provider: {
     apiKey: 'API 金鑰',
     enterYourKey: '輸入你的 API 金鑰',

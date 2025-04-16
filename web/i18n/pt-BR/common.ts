@@ -256,6 +256,10 @@ const translation = {
     displayLanguage: 'Idioma de exibição',
     timezone: 'Fuso horário',
   },
+  theme: {
+    light: 'Modo claro',
+    dark: 'Modo escuro',
+  },
   provider: {
     apiKey: 'Chave da API',
     enterYourKey: 'Insira sua chave da API aqui',

@@ -269,6 +269,10 @@ const translation = {
     displayLanguage: 'प्रदर्शन भाषा',
     timezone: 'समय क्षेत्र',
   },
+  theme: {
+    light: 'लाइट मोड',
+    dark: 'डार्क मोड',
+  },
   provider: {
     apiKey: 'एपीआई कुंजी',
     enterYourKey: 'अपनी एपीआई कुंजी यहां दर्ज करें',

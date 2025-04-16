@@ -252,6 +252,10 @@ const translation = {
     displayLanguage: '표시 언어',
     timezone: '시간대',
   },
+  theme: {
+    light: '라이트 모드',
+    dark: '다크 모드',
+  },
   provider: {
     apiKey: 'API 키',
     enterYourKey: '여기에 API 키를 입력하세요',

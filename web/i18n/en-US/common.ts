@@ -275,6 +275,10 @@ const translation = {
     displayLanguage: 'Display Language',
     timezone: 'Time Zone',
   },
+  theme: {
+    light: 'Light Mode',
+    dark: 'Dark Mode',
+  },
   provider: {
     apiKey: 'API Key',
     enterYourKey: 'Enter your API key here',

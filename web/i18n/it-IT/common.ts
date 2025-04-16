@@ -271,6 +271,10 @@ const translation = {
     displayLanguage: 'Lingua di visualizzazione',
     timezone: 'Fuso orario',
   },
+  theme: {
+    light: 'Modalità chiara',
+    dark: 'Modalità scura',
+  },
   provider: {
     apiKey: 'API Key',
     enterYourKey: 'Inserisci qui la tua API key',

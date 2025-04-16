@@ -264,6 +264,10 @@ const translation = {
     displayLanguage: 'Język interfejsu',
     timezone: 'Strefa czasowa',
   },
+  theme: {
+    light: 'Tryb jasny',
+    dark: 'Tryb ciemny',
+  },
   provider: {
     apiKey: 'Klucz API',
     enterYourKey: 'Wprowadź tutaj swój klucz API',
